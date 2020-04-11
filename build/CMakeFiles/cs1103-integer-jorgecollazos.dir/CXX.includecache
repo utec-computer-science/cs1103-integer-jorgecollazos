@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/GitHub/cs1103-integer-jorgecollazos/src/Integer.cpp
+Integer.h
+/home/jorge/GitHub/cs1103-integer-jorgecollazos/src/Integer.h
+
+/home/jorge/GitHub/cs1103-integer-jorgecollazos/src/Integer.h
+
+/home/jorge/GitHub/cs1103-integer-jorgecollazos/src/main.cpp
+tipos.h
+/home/jorge/GitHub/cs1103-integer-jorgecollazos/src/tipos.h
+Integer.h
+/home/jorge/GitHub/cs1103-integer-jorgecollazos/src/Integer.h
+Integer.cpp
+/home/jorge/GitHub/cs1103-integer-jorgecollazos/src/Integer.cpp
+
+/home/jorge/GitHub/cs1103-integer-jorgecollazos/src/tipos.h
+iostream
+-
+
